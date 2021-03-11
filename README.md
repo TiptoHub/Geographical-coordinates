@@ -6,3 +6,6 @@ This shortcut uses bigdatacloud.net API to find data on geographical coordinates
 To install this shortcut you must allow shortcut settings to install shortcuts from untrusted sources. Then on the iOS device, click on the following link: https://www.icloud.com/shortcuts/0bafa07f90384e189ccd9bd826517e4c
 ### Polish version
 If you want to download a Polish version of the shortcut, click here: https://www.icloud.com/shortcuts/e661f96cc491474787abb978e8842539
+## See this script in action
+![alt tag](https://github.com/TiptoHub/Geographical-coordinates/raw/main/IMG_0829.PNG)
+![alt tag](https://github.com/TiptoHub/Geographical-coordinates/raw/main/IMG_0830.PNG)
